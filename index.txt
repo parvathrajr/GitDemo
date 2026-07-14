@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Welcome to DevOps
+=======
+<<<<<<< HEAD
+welcome to Devops
+=======
+Welcome to DevOps
+>>>>>>> ed979e5bf75eec31d0052cc013491ca3f671458c
+>>>>>>> 73b59b9329a8e965c601ebd443b969b105d3b82b
